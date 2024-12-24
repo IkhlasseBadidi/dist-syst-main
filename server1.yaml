@@ -1,0 +1,12 @@
+server:
+  host: svm-11.cs.helsinki.fi
+  http_port: 65421
+  socket_port: 65411
+
+discovery:
+  host: "128.214.224.188"
+  port: 6500
+
+storage:
+  path: "./distfiles"
+  log_file: "server1.log"
