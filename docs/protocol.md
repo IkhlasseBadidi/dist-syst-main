@@ -2,6 +2,7 @@
 The service uses two distinct ways of communication, HTTP with the client and
 plaintext messages over TCP between nodes.
 
+
 ## Server-to-server communication
 The server nodes communicate between themselves when the user initiates a
 download request from one of them. At this point the server nodes establish
