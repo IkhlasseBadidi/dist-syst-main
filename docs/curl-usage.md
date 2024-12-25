@@ -3,6 +3,7 @@ Since we have not built a dedicated client, here are assorted spells for
 interfacing with it through `curl`.
 
 
+
 To note for future: As server URLs for testing environment are chosen and the
 port the servers listen on is picked, update the spells to be easier to
 copy-and-paste.
