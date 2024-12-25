@@ -7,6 +7,7 @@ from logging.handlers import RotatingFileHandler
 import time
 from config_loader import load_config
 
+
 # Load configuration
 config = load_config()
 HOST = config['HOST']
