@@ -2,6 +2,7 @@ import socket
 import threading
 import time
 
+
 # Global state to store active nodes
 nodes = {}
 lock = threading.Lock()  # Ensures thread-safe access to `nodes`
