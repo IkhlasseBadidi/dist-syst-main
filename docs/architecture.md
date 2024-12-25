@@ -3,6 +3,7 @@
 multiple server nodes communicating with one another in a flat hierarchy. The
 client is proposed to be any client that may send proper HTTP requests.
 
+
 ## Server Nodes
 The server nodes are presented in a flat hierarchy. Communication between nodes
 happens when users wish to download content from the service, which is when the
