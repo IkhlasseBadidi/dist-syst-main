@@ -3,6 +3,7 @@ For the purposes of node discovery, we have elected to employ a configurable
 address from which the file service nodes receive the addresses of all nodes,
 and to whom they send their own liveness information.
 
+
 ## Discovery server features
 The discovery node communicates periodically with all file service nodes whose
 existence it is aware of. New file service nodes joining the network must
