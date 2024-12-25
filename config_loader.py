@@ -3,6 +3,7 @@ import socket
 import logging
 from pathlib import Path
 
+
 def load_config(config_file='config/config.yaml'):
     try:
         # Load YAML configuration
